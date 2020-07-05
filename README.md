@@ -1,0 +1,2 @@
+# Owl_Carousel_Mixed_Mode
+jQuery_Plugin
