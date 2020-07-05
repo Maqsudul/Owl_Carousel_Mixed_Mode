@@ -1,0 +1,29 @@
+.image{
+    background-image: url(../images/monaco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.text{
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding: 200px;
+}.img-overlay{
+    background-color: rgba(255, 87, 34, 0.4);
+}
+
+.slide{
+    width: 900px;
+    margin: 0 auto;
+}
+.overlay{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.image-wrap{
+    margin: 5px;
+}
+
+
